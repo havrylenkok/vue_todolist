@@ -1,6 +1,7 @@
 # todolist
 
 > simple todo spa
+
 > Inspiration: [example todo app](https://codesandbox.io/s/o29j95wx9), [docs](https://vuejs.org/v2/guide/installation.html)
 
 ## Build Setup
